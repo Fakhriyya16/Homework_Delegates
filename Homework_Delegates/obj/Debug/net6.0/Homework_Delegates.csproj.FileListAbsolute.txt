@@ -1,0 +1,14 @@
+D:\VS\Homework_Delegates\Homework_Delegates\bin\Debug\net6.0\Homework_Delegates.exe
+D:\VS\Homework_Delegates\Homework_Delegates\bin\Debug\net6.0\Homework_Delegates.deps.json
+D:\VS\Homework_Delegates\Homework_Delegates\bin\Debug\net6.0\Homework_Delegates.runtimeconfig.json
+D:\VS\Homework_Delegates\Homework_Delegates\bin\Debug\net6.0\Homework_Delegates.dll
+D:\VS\Homework_Delegates\Homework_Delegates\bin\Debug\net6.0\Homework_Delegates.pdb
+D:\VS\Homework_Delegates\Homework_Delegates\obj\Debug\net6.0\Homework_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Homework_Delegates\Homework_Delegates\obj\Debug\net6.0\Homework_Delegates.AssemblyInfoInputs.cache
+D:\VS\Homework_Delegates\Homework_Delegates\obj\Debug\net6.0\Homework_Delegates.AssemblyInfo.cs
+D:\VS\Homework_Delegates\Homework_Delegates\obj\Debug\net6.0\Homework_Delegates.csproj.CoreCompileInputs.cache
+D:\VS\Homework_Delegates\Homework_Delegates\obj\Debug\net6.0\Homework_Delegates.dll
+D:\VS\Homework_Delegates\Homework_Delegates\obj\Debug\net6.0\refint\Homework_Delegates.dll
+D:\VS\Homework_Delegates\Homework_Delegates\obj\Debug\net6.0\Homework_Delegates.pdb
+D:\VS\Homework_Delegates\Homework_Delegates\obj\Debug\net6.0\Homework_Delegates.genruntimeconfig.cache
+D:\VS\Homework_Delegates\Homework_Delegates\obj\Debug\net6.0\ref\Homework_Delegates.dll
